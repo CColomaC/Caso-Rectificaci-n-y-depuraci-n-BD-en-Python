@@ -33,6 +33,6 @@
 
 ### Revisa la secuencia de tareas que debes seguir en la pauta de la actividad.
 
-##¿Qué archivo debo entregar en plataforma?
+## ¿Qué archivo debo entregar en plataforma?
 
-###Entregable: Archivo tipo Python con un código que cumpla con lo especificado anteriormente. 
+### Entregable: Archivo tipo Python con un código que cumpla con lo especificado anteriormente. 
