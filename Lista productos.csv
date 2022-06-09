@@ -1,0 +1,11 @@
+﻿ID,Nombre,Descripción,Precio Unitario
+400001,Alerce A4C,Resma A4 Carta 500 hojas,2250
+400002,Alerce A4O,Resma A4 Oficio 500 hojas,2500
+400003,Alerce A4C XL,Resma A4 Carta 1000 hojas,4200
+400004,Alerce A4O XL,Resma A4 Oficio 1000 hojas,4700
+400005,Alerce Kraft,Pliego papel kraft 90x60cm,500
+400006,Alerce Kraft XL,Pliego papel kraft 150x90cm,750
+400007,Alerce PreCuad Oficio,"Block prepicado, tamaño oficio, cuadriculado, 80 hojas",1300
+400008,Alerce PreCuad Carta,"Block prepicado, tamaño carta, cuadriculado, 80 hojas",1100
+400009,Alerce PreComp Oficio,"Block prepicado, tamaño oficio, composición, 80 hojas",1200
+400010,Alerce PreComp Carta,"Block prepicado, tamaño carta, composición, 80 hojas",1000
